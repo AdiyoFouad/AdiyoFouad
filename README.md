@@ -3,7 +3,7 @@
 
 🎓 Étudiant en **Licence 3 MIAGE** à l’Université de Rennes
 📍 Basé à **Rennes, France**
-📧 [fouad.odjuoye@etudiant.univ-rennes1.fr](mailto:fouad.odjuoye@etudiant.univ-rennes1.fr)
+📧 [fouad.odjouoye@etudiant.univ-rennes1.fr](mailto:fouad.odjouoye@etudiant.univ-rennes1.fr)
 🔗 [LinkedIn](https://www.linkedin.com/in/adiyo-fouad-odjouoye/) • [GitHub](https://github.com/AdiyoFouad)
 
 ---
