@@ -67,7 +67,7 @@
 ## 📫 Me contacter
 📧 [fouad.odjouoye@etudiant.univ-rennes1.fr](mailto:fouad.odjouoye@etudiant.univ-rennes1.fr)
 🔗 [LinkedIn](https://www.linkedin.com/in/adiyo-fouad-odjouoye/)
-💻 [Portfolio (à venir)](https://adiyofouad.github.io/portfolio)
+💻 [Portfolio](https://fouad-odjouoye.vercel.app/)
 
 ---
 
